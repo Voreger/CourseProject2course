@@ -1,0 +1,25 @@
+2024-06-17 18:27:07 INFO  ReqresPage:55 - Ответ на 'Create' успешно проверен и соответствует API
+2024-06-17 18:27:08 INFO  ReqresPage:55 - Ответ на 'Update' успешно проверен и соответствует API
+2024-06-17 18:27:10 INFO  ReqresPage:55 - Ответ на 'Update' успешно проверен и соответствует API
+2024-06-17 18:27:11 INFO  ReqresPage:55 - Ответ на 'Delete' успешно проверен и соответствует API
+2024-06-17 18:27:12 INFO  ReqresPage:55 - Ответ на 'Register - successful' успешно проверен и соответствует API
+2024-06-17 18:27:14 INFO  ReqresPage:55 - Ответ на 'Register - unsuccessful' успешно проверен и соответствует API
+2024-06-17 18:27:15 INFO  ReqresPage:55 - Ответ на 'Login - successful' успешно проверен и соответствует API
+2024-06-17 18:27:16 INFO  ReqresPage:55 - Ответ на 'Login - unsuccessful' успешно проверен и соответствует API
+2024-06-17 18:27:27 INFO  ReqresPage:55 - Ответ на 'Delayed response' успешно проверен и соответствует API
+2024-06-17 18:33:42 INFO  ReqresPage:39 - Страница успешно открыта
+2024-06-17 18:33:43 INFO  ReqresPage:55 - Ответ на 'List users' успешно проверен и соответствует API
+2024-06-17 18:33:44 INFO  ReqresPage:55 - Ответ на 'Single user' успешно проверен и соответствует API
+2024-06-17 18:33:45 INFO  ReqresPage:55 - Ответ на 'Single user not found' успешно проверен и соответствует API
+2024-06-17 18:33:46 INFO  ReqresPage:55 - Ответ на 'List <resource>' успешно проверен и соответствует API
+2024-06-17 18:33:47 INFO  ReqresPage:55 - Ответ на 'Single <resource>' успешно проверен и соответствует API
+2024-06-17 18:33:49 INFO  ReqresPage:55 - Ответ на 'Single <resource> not found' успешно проверен и соответствует API
+2024-06-17 18:33:50 INFO  ReqresPage:55 - Ответ на 'Create' успешно проверен и соответствует API
+2024-06-17 18:33:51 INFO  ReqresPage:55 - Ответ на 'Update' успешно проверен и соответствует API
+2024-06-17 18:33:53 INFO  ReqresPage:55 - Ответ на 'Update' успешно проверен и соответствует API
+2024-06-17 18:33:54 INFO  ReqresPage:55 - Ответ на 'Delete' успешно проверен и соответствует API
+2024-06-17 18:33:55 INFO  ReqresPage:55 - Ответ на 'Register - successful' успешно проверен и соответствует API
+2024-06-17 18:33:56 INFO  ReqresPage:55 - Ответ на 'Register - unsuccessful' успешно проверен и соответствует API
+2024-06-17 18:33:58 INFO  ReqresPage:55 - Ответ на 'Login - successful' успешно проверен и соответствует API
+2024-06-17 18:33:59 INFO  ReqresPage:55 - Ответ на 'Login - unsuccessful' успешно проверен и соответствует API
+2024-06-17 18:34:09 INFO  ReqresPage:55 - Ответ на 'Delayed response' успешно проверен и соответствует API
